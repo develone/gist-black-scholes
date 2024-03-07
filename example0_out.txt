@@ -1,0 +1,77 @@
+Strike Price: 60.000000 
+Asset Price:  58.440000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.744736 
+Call Value:   0.430805 
+Delta Ratio:  0.296706 
+T-Bills:      -16.908708 
+-0.12
+
+Strike Price: 60.000000 
+Asset Price:  58.460000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.730699 
+Call Value:   0.436769 
+Delta Ratio:  0.299662 
+T-Bills:      -17.081484 
+-0.08
+
+Strike Price: 60.000000 
+Asset Price:  58.480000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.716722 
+Call Value:   0.442792 
+Delta Ratio:  0.302630 
+T-Bills:      -17.255036 
+-0.04
+
+Strike Price: 60.000000 
+Asset Price:  58.500000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.702805 
+Call Value:   0.448874 
+Delta Ratio:  0.305611 
+T-Bills:      -17.429354 
+-0.00
+
+Strike Price: 60.000000 
+Asset Price:  58.520000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.688947 
+Call Value:   0.455016 
+Delta Ratio:  0.308603 
+T-Bills:      -17.604429 
++0.04
+
+Strike Price: 60.000000 
+Asset Price:  58.540000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.675149 
+Call Value:   0.461218 
+Delta Ratio:  0.311607 
+T-Bills:      -17.780250 
++0.08
+
+Strike Price: 60.000000 
+Asset Price:  58.560000 
+Std Dev:      0.140000 
+Risk Free:    0.050000 
+Days to Exp:  30.000000 
+Put Value:    1.661411 
+Call Value:   0.467481 
+Delta Ratio:  0.314622 
+T-Bills:      -17.956808 
++0.12
+
